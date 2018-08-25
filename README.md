@@ -6,6 +6,6 @@
  1. Background Research 
      * For more information, **please click [here](https://github.com/shashankpatibandla/ISQA8060-Individual/tree/master/Background%20Research)** 
  2. Data Entry Analysis  
-     * For more information, **please click [here](www.google.com)**
+     * For more information, **please click [here](https://github.com/shashankpatibandla/ISQA8060-Individual/tree/master/Data%20Entry%20Analysis)**
 
 _To Find the License Information **Please Click [here](https://github.com/shashankpatibandla/ISQA8060-Individual/blob/master/LICENSE)**_
