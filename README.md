@@ -4,4 +4,5 @@
 ###### The Major Individual assignments are listed as below
 
       1. Background Research
+            * For more information, please click [here](www.google.com)
       2. Data Entry Analysis
