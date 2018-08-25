@@ -5,8 +5,7 @@
 
  1. Background Research 
       
- 2. Data Entry Analysis
-    
-    For more information, **please click [here](www.google.com)**
+ 2. Data Entry Analysis  
+ For more information, **please click [here](www.google.com)**
 
 _To Find the License Information **Please Click [here](https://github.com/shashankpatibandla/ISQA8060-Individual/blob/master/LICENSE)**_
