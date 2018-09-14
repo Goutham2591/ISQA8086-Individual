@@ -1,6 +1,6 @@
-# ISQA8060-Individual
+# ISQA8086-Individual
 
-### This Page has all the Information regarding the Individual work done for _**ISQA 8060**_ class
+### This Page has all the Information regarding the Individual work done for _**ISQA 8086**_ class
 #### The Major Individual assignments are listed as below
 
  1. Background Research 
