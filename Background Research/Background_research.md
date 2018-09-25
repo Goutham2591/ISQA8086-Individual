@@ -8,7 +8,7 @@
 * This would help us and arboretum better understand the climatic effects on Oak tress and how different species show subtle differences in the specific phenological phases. 
 * Some other weather stations that are in and around arboretum are Morrison and Chicago Midway Airport. These are farther away from the arboretum than the station at Aurora
 
-### What are the extreme conditions noted in the Morrison station 
+### What are the extreme conditions noted in the Aurora station 
 
 Some of the extreme conditions that were noted in the Aurora station is mentioned in this section, also this section explains why it is important to know what extreme conditions the Oak Trees were exposed to in the two years (i.e 2017 & 18). I have listed only different kinds of extreme weather conditions to give a brief understanding of how weather is around the arboretum
 *	There were flurries recorded on 01/06/2017 in the Aurora NOAA station along with Thunderstorms
